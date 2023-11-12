@@ -51,3 +51,24 @@ Exemplo de retorno de um cadastro paginado:
             "preco": 20.99,
             "quantidade": 200
         }
+
+
+Postman:
+List
+![image](https://github.com/Evelynbarbosap/product-crud-with-PHPUnit-unit-testing/assets/38754479/d1c8662f-d88e-43fc-8936-a549d9e7a961)
+Post
+![image](https://github.com/Evelynbarbosap/product-crud-with-PHPUnit-unit-testing/assets/38754479/229eca42-33b2-4e3f-94d7-bb67402747d3)
+Show
+![image](https://github.com/Evelynbarbosap/product-crud-with-PHPUnit-unit-testing/assets/38754479/dd524423-e5e3-4307-8a3a-0ab2b1295f73)
+Update
+![image](https://github.com/Evelynbarbosap/product-crud-with-PHPUnit-unit-testing/assets/38754479/bccce6b2-436b-48ed-8b93-0fa79c45204f)
+Delete
+![image](https://github.com/Evelynbarbosap/product-crud-with-PHPUnit-unit-testing/assets/38754479/0e835e3b-4673-47d8-b875-5a20f27d9a09)
+
+Utilizei o pgamdin para o postgresql.
+PhpUnit para os testes unitários.
+Laravel 10 para o desenvolvimento do desafio. 
+
+
+
+
